@@ -411,23 +411,4 @@ FORD,KUGA 2.5L FHEV,SUV,4x2,FORD 2.5L DURA D4 IVCT ATK FHEV / TOSHIBA PERMANENT 
 VOLKSWAGEN,BEETLE,COUPÉ 2 PUERTAS COUPÉ 2 PUERTAS CABRIO,4x2,VOLKSWAGEN CPLA,1984,155,AUTOMATICA,NAFTA,EURO V,489,12/09/2019,11.06.1734.04,TÜV NORD Mobilität,186.9,10.5,6.5,8,000424B
 VOLKSWAGEN,BEETLE,COUPÉ 2 PUERTAS COUPÉ 2 PUERTAS CABRIO,4x2,VOLKSWAGEN CTHD,1390,118,MANUAL,NAFTA,EURO V,491,12/09/2019,11.06.1876.02,TÜV NORD Mobilität,163.1,9,5.8,7,000426B
 CHEVROLET,SPIN ACTIV 1.8,MONOVOLÚMEN 4 PUERTAS Y PORTÓN TRASERO,4x2,CHEVROLET LJ1-(FAM 1 GV 1.8L SOHC 2V),1796,77.2,MANUAL,NAFTA,EURO V,508,11/10/2019,CPLE 042/2017 Rev.1,GENERAL MOTORS DO BRASIL LTDA.,192.83,10.68,6.64,8.13,000442B
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,Manual (M),Nafta (E0),Euro V,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,Manual Automatizada (MA),Nafta (E5),Euro VI,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,Automática (A),GNC (G20),,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,Automática Doble Embreague (DCT),GNL,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,Continua Variable (CV),Diesel (B0),,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,Diesel (B5),,,,,,,,,,
+
